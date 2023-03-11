@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Varshit Madisetti</h1>
 <h3 align="center">A Full-Stack Web Developer from India.</h3>
 
-🔭 I’m currently working on cybersecurity<br>👯 I’m looking to collaborate on innovative projects<br>🤝 I’m looking for help with deep learning and cybersecurity<br>🌱 I’m currently learning deep learning and cybersecurity<br>💬 Ask me about nodejs, expressjs, Reactjs<br>⚡ Fun fact I am very nice<br>📁 Know about my experiences [click here](https://drive.google.com/file/d/11nJP7Tg_4FMXrwKmOYEpUMMjd3t6LzuJ/view?usp=sharing)
+
+- 🔭 I’m currently working on **ccybersecurity**
+
+- 🌱 I’m currently learning **deep learning and cybersecurity**
+
+- 👯 I’m looking to collaborate on **innovative projects**
+
+- 🤝 I’m looking for help with **deep learning and cybersecurity**
+
+- 💬 Ask me about **nodejs, expressjs, Reactjs**
+
+- 📫 How to reach me **varshit.madi@gmail.com**
+
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/11nJP7Tg_4FMXrwKmOYEpUMMjd3t6LzuJ/view?usp=sharing)
+
+- ⚡ Fun fact **I am very nice**
 
 
 ## 🌐 Socials:
