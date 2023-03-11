@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **nodejs, expressjs, Reactjs**
 
-- 📫 How to reach me **Varshit.madi@gmail.com**
+- 📫 How to reach me **varshit.madi@gmail.com**
 
 - 📄 Know about my experiences [click here](https://drive.google.com/file/d/11nJP7Tg_4FMXrwKmOYEpUMMjd3t6LzuJ/view?usp=sharing)
 
