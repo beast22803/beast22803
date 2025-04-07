@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **varshit.madi@gmail.com**
 
-- 📄 Know about my experiences [click here](https://docs.google.com/document/d/1Icp7YjmLRM0IOqM7smSQ3EEX9YX9nqEk7tufTYZ6wak/edit)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/19gnVs0ZOQWuoax_FUbW_xWawY56uFmZi/view?usp=drive_link)
 
 - ⚡ Fun fact **I am very nice**
 
