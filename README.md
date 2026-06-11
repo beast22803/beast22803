@@ -1,4 +1,3 @@
-<div align="center">
 # `> Varshit Madisetti`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;ML+%26+Cybersecurity+Builder;Open+to+Collaborate)](https://git.io/typing-svg)
